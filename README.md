@@ -6,4 +6,4 @@ We rewrite the code to work with tesorflow 2.5, and suggested an improvement bas
 
 In the datasets.txt file you can find the three datasets we used. In order to use them, you just need download them to your local drive and change the data_path inside the notebooks.
 
-The notebooks contain three files - one for the original paper model (DVBPR), one for ImageNet-Based model and for CAE-Based model.
+The notebooks contain three files - one for the original paper model (DVBPR), one for ImageNet-Based model and one for CAE-Based model.
