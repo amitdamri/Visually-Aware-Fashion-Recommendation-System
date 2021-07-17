@@ -4,3 +4,5 @@ Wang-Cheng Kang, Chen Fang, Zhaowen Wang, Julian McAuley. *[Visually-Aware Fashi
 
 We rewrite the code to work with tesorflow 2.5, and suggested an improvement based on ImageNet model and Convolutional AutoEncoder model. 
 
+In the datasets.txt file you can find the three datasets we used. In order to use them, you just need download them to your local drive and change the data_path inside the notebooks.
+
