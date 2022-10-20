@@ -1,4 +1,9 @@
 # Visually-Aware-Fashion-Recommendation-System
+
+<p align="center">
+<img width=500 height=300 src="https://user-images.githubusercontent.com/49988048/196925513-ee458c40-9015-417d-9e0f-7ab12a4d6275.png">
+</p>
+
 This project is an implementation of the DVBPR part of following paper:
 Wang-Cheng Kang, Chen Fang, Zhaowen Wang, Julian McAuley. *[Visually-Aware Fashion Recommendation and Design with Generative Image Models.](http://cseweb.ucsd.edu/~jmcauley/pdfs/icdm17.pdf)* In Proceedings of IEEE International Conference on Data Mining (ICDM'17)
 
